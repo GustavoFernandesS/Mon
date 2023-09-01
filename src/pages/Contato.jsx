@@ -1,10 +1,10 @@
-import Menu from "./Menu";
+import BasicExample from "../Componentes/BasicExample"
 
 function Contato (){
     return(
         <div>
-            <h1>Contato</h1>
-            <Menu/>
+            <BasicExample/>
+            <h1>Contato</h1>   
         </div>
     )
 }
